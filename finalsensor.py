@@ -8,7 +8,7 @@ from datetime import datetime
 
 # ---------------- CONFIGURATION ----------------
 
-ESP32_URL = "http://10.170.214.175/sensor"
+ESP32_URL = "http://10.30.213.175/sensor"
 
 INTERVAL_SECONDS = 3
 
